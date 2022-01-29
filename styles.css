@@ -100,7 +100,7 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: #40BB15;
+    background-color: #297D93;
     color: #FFFFFF;
 }
 
@@ -129,7 +129,7 @@ button {
 }
 
 .titulo-card {
-    background-color: #219653;
+    background-color: #022341;
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
@@ -146,7 +146,7 @@ li {
 }
 
 .caixa-inferior {
-    background-color: #00095d;
+    background-color: #171B1C;
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
